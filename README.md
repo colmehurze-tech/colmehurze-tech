@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hello, I'm colmehurze
 
 <!--
 **colmehurze-tech/colmehurze-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+18 y.o. weeb coder who's obsessed with operating systems :)
+
+I occasionally post weird ways to brick your computer. Run my code at your own risk!
+
+- 🔭 I’m currently working on:
+     Making an arch based distro from scratch
+- 📫 How to reach me:
+  You can email me at colmehurze@gmail.com or message me via discord (colmehurze)/telegram (https://t.me/colmehurze)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I use Arch BTW :)
+
+
